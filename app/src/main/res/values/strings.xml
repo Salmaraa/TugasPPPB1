@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas Linear Layout</string> digunakan untuk label aplikasi
+    <string name="btn_test_1">Submit</string> digunakan untuk tombol submit
+    <string name="btn_test_2">Cancel</string> digunakan untuk tombol cancel
+</resources>
